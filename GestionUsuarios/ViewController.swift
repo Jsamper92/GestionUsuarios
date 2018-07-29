@@ -10,9 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Ejemplo de version de controles")
+        let today = NSDate()
+        print(today)
     }
 
     override func didReceiveMemoryWarning() {
