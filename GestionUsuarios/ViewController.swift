@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         print("Ejemplo de version de controles")
         let today = NSDate()
         print(today)
+        print("ejemplo de version de controles en GitHub")
     }
 
     override func didReceiveMemoryWarning() {
