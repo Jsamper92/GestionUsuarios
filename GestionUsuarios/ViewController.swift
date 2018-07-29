@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         let today = NSDate()
         print(today)
         print("ejemplo de version de controles en GitHub")
+        print("descargando rama de github")
     }
 
     override func didReceiveMemoryWarning() {
